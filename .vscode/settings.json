@@ -1,0 +1,6 @@
+// .vscode/settings.json
+{
+  "java.project.referencedLibraries": [
+    "D:/Program Files/JavaFX/javafx-sdk-21/lib/**/*.jar"
+  ]
+}
